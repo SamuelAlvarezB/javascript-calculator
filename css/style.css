@@ -35,3 +35,11 @@ button {
     flex-basis: 25%;
     font-size: 30px;
 }
+
+.btnDecimal {
+    flex-basis: 25%;
+}
+
+.btnReturn {
+    flex-basis: 75%;
+}
